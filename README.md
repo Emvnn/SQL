@@ -9,3 +9,12 @@
 SQL is an essential tool for managing, transforming, and analyzing data in various industries, making it a must-have skill for data professionals.  
 
 ---
+
+### Database vs. Schema  
+
+- **Database**: The main container holding all data and objects (e.g., tables, indexes, stored procedures). It represents the complete data storage system.  
+
+- **Schema**: A logical subdivision within a database that organizes data into specific groups or purposes.  
+
+**Key Difference**: A database is the overall system, while a schema is a way to organize data inside it.  
+
