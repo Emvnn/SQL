@@ -30,7 +30,6 @@ Below are the fields in the dataset:
 1. Validate the study's conclusions for international students.  
 2. Investigate the impact of the length of stay on mental health.  
 
-### Visualization  
 ![mentalhealth](https://github.com/user-attachments/assets/4d9b3899-dee4-4173-ac82-eb4ce0f1961b)
 
 
