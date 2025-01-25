@@ -31,4 +31,4 @@ Below are the fields in the dataset:
 2. Investigate the impact of the length of stay on mental health.  
 
 ### Visualization  
-![Mental Health Analysis](https://via.placeholder.com/800x400)  
+![Mental Health Analysis](![Uploading mentalhealth.jpg…]())  
