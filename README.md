@@ -20,3 +20,7 @@ SQL is an essential tool for managing, transforming, and analyzing data in vario
 
 ![1_YejjU_69ffDyrC0z-X9jYQ](https://github.com/user-attachments/assets/df7ae5ec-350b-4c25-a8b1-af2848f20dcd)
 
+---
+A data pipeline is a method where raw data is ingested from data sources, transformed, and then stored in a data lake or data warehouse for analysis.
+
+<img width="896" alt="etl_pipeline" src="https://github.com/user-attachments/assets/a1b0e9fb-ebd2-41eb-b80c-0c59ed9fdfae" />
