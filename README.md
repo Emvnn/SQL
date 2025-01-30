@@ -18,3 +18,5 @@ SQL is an essential tool for managing, transforming, and analyzing data in vario
 
 **Key Difference**: A database is the overall system, while a schema is a way to organize data inside it.  
 
+![1_YejjU_69ffDyrC0z-X9jYQ](https://github.com/user-attachments/assets/df7ae5ec-350b-4c25-a8b1-af2848f20dcd)
+
