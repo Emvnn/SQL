@@ -25,3 +25,16 @@ SQL is an essential tool for managing, transforming, and analyzing data in vario
 A data pipeline is a method where raw data is ingested from data sources, transformed, and then stored in a data lake or data warehouse for analysis.
 
 <img width="896" alt="etl_pipeline" src="https://github.com/user-attachments/assets/a1b0e9fb-ebd2-41eb-b80c-0c59ed9fdfae" />
+
+--- 
+
+## Key Differences
+
+| Feature         | Structured Data        | Semi-Structured Data      | Unstructured Data      |
+|---------------|----------------------|-------------------------|-----------------------|
+| **Schema**     | Fixed and rigid       | Flexible, self-describing | No schema             |
+| **Organization** | Rows and columns      | Tags, metadata, or markers | No organization       |
+| **Queryability** | Easy (e.g., SQL)      | Moderate (e.g., JSONPath)  | Difficult             |
+| **Storage**     | Relational databases  | NoSQL databases, files    | Files, object storage |
+| **Examples**    | SQL tables, Excel     | JSON, XML, emails        | Text, images, videos  |
+
