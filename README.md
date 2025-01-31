@@ -8,6 +8,8 @@
 
 SQL is an essential tool for managing, transforming, and analyzing data in various industries, making it a must-have skill for data professionals.  
 
+![PNG](https://github.com/user-attachments/assets/f43116df-4d55-4bce-a693-0b35b9aa9913)
+
 ---
 
 ### Database vs. Schema  
