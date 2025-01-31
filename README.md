@@ -40,3 +40,6 @@ A data pipeline is a method where raw data is ingested from data sources, transf
 | **Storage**     | Relational databases  | NoSQL databases, files    | Files, object storage |
 | **Examples**    | SQL tables, Excel     | JSON, XML, emails        | Text, images, videos  |
 
+---
+
+![1721174296278](https://github.com/user-attachments/assets/e7725fcd-6844-49ff-9ee5-a30004d4f7e6)
