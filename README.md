@@ -1,3 +1,37 @@
+# Computing Concepts
+
+## Computing Definitions from Lexicon
+
+- **Airflow:** An open-source workflow management platform used to schedule data engineering tasks.
+- **AWS (Amazon Web Services):** Amazon's cloud computing services.
+- **Azure:** Microsoft's cloud services.
+- **Big Data:** The systematic storage, management, and analysis of large datasets, characterized by Volume, Variety, Velocity, and Veracity.
+- **Cloud Computing:** The use of remote servers hosted on the internet to store, manage, and process data instead of local servers or personal computers.
+- **Database Schema:** The logical structure of a database, defining how data is stored and related.
+- **Data Catalog:** A metadata management tool for organizing data within a system.
+- **Data Engineering:** The process of transforming data into a format suited for analysis.
+- **Data Ingestion:** The process of obtaining and importing data for storage or processing.
+- **Data Lake:** A repository for storing raw and structured data in its natural format.
+- **Data Pipeline:** A series of processing steps to move and transform data.
+- **Data Processing:** The collection and manipulation of data to generate meaningful information.
+- **Data Science:** The field of extracting knowledge and insights from data.
+- **Data Warehouse:** A central repository of integrated data from multiple sources.
+- **ETL (Extract, Transform, Load):** The process of moving data from one system to another.
+- **Google Cloud:** Google's cloud computing platform.
+- **Luigi:** An open-source workflow management platform used to schedule data engineering tasks.
+- **NoSQL:** A type of database that stores data in a non-relational format.
+- **Parallel Computing:** The simultaneous execution of multiple computations across different processors to solve problems faster.
+- **Query:** A request for information from a database.
+- **Redshift:** Amazon's data warehousing service.
+- **S3:** Amazon's object storage service.
+- **Scheduling:** The process of organizing and running jobs in a specific order in data engineering systems.
+- **SQL:** Structured Query Language for managing relational databases.
+- **Structured Data:** Data stored in a predefined format, typically in tables.
+- **Unstructured Data:** Data that does not follow a predefined structure, such as text and media files.
+- **View:** Output of a stored, frequent query on the data.
+
+---
+
 ## **📌 Introduction**  
 This document covers fundamental data concepts that are essential for data analysis, processing, and management. Whether you're a beginner or an advanced professional, understanding these concepts is crucial for working with data effectively.  
 
