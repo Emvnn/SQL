@@ -241,6 +241,8 @@ A data pipeline is a method where raw data is ingested from data sources, transf
 
 ![etl-process-explained-diagram](https://github.com/user-attachments/assets/401fc3dd-bf76-4923-8530-6d0024763edb)
 
+![65d3a069871456bd33730869_GC2xT1oWgAA1rAC](https://github.com/user-attachments/assets/5a8729c0-48f5-40e0-b618-f64ed33e575f)
+
 --- 
 
 ## Key Differences
