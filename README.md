@@ -263,3 +263,6 @@ A data pipeline is a method where raw data is ingested from data sources, transf
 Data preprocessing can refer to manipulation, filtration or augmentation of data before it is analyzed,[1] and is often an important step in the data mining process. 
 
 ![Data-Preprocessing-in-Data-Mining](https://github.com/user-attachments/assets/6297383c-82cd-497b-b638-3f55affccd28)
+---
+
+![1711873124018](https://github.com/user-attachments/assets/0b55222d-2ee0-4fb0-8647-bfcf82ce0110)
