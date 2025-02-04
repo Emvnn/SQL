@@ -253,6 +253,41 @@ A data pipeline is a method where raw data is ingested from data sources, transf
 | **Storage**     | Relational databases  | NoSQL databases, files    | Files, object storage |
 | **Examples**    | SQL tables, Excel     | JSON, XML, emails        | Text, images, videos  |
 
+
+### **1. Based on Nature**  
+#### **a. Qualitative (Categorical) Data**  
+   - Descriptive, non-numeric data.  
+   - **Types:**  
+     - **Nominal:** Categories without a specific order (e.g., gender, colors).  
+     - **Ordinal:** Categories with a meaningful order but no fixed difference (e.g., rankings, satisfaction levels).  
+
+#### **b. Quantitative (Numerical) Data**  
+   - Numerical values that represent measurable quantities.  
+   - **Types:**  
+     - **Discrete:** Countable values (e.g., number of students in a class).  
+     - **Continuous:** Measured values with infinite possibilities (e.g., height, temperature).  
+
+---
+
+### **2. Based on Structure**  
+#### **a. Structured Data**  
+   - Organized in rows and columns (e.g., databases, Excel sheets).  
+   - Examples: Customer records, sales data.  
+
+#### **b. Unstructured Data**  
+   - No fixed format or structure.  
+   - Examples: Images, videos, social media posts.  
+
+#### **c. Semi-Structured Data**  
+   - Contains some structure but is not strictly organized.  
+   - Examples: JSON, XML files, emails.  
+
+---
+
+### **3. Based on Source**  
+- **Primary Data:** Collected directly by researchers (e.g., surveys, interviews).  
+- **Secondary Data:** Collected from existing sources (e.g., reports, articles).  
+
 ---
 
 ![1721174296278](https://github.com/user-attachments/assets/e7725fcd-6844-49ff-9ee5-a30004d4f7e6)
