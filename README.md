@@ -304,3 +304,20 @@ Data preprocessing can refer to manipulation, filtration or augmentation of data
 ---
 
 ![1711873124018](https://github.com/user-attachments/assets/0b55222d-2ee0-4fb0-8647-bfcf82ce0110)
+
+---
+# Git & Github
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+---
+
+| **Term**      | **Definition**                                                                 | **Purpose**                                                       | **Example**                                                        |
+|---------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Terminal**  | A text-based interface that allows users to interact with the system.        | Acts as a window to access the shell.                             | GNOME Terminal, macOS Terminal, Windows Command Prompt             |
+| **Console**   | Originally a physical device (keyboard + screen) to interact with computers. | Modern consoles refer to software-based or physical terminals.    | System Console, Linux Virtual Console                               |
+| **Shell**     | A program that interprets and executes user commands.                        | Processes commands and runs scripts.                              | Bash, Zsh, Fish, PowerShell                                         |
+| **Command Line** | A text-based interface for entering commands.                             | Allows direct input of commands to the shell.                     | Command-line prompt such as `$` or `C:\>`                           |
+
+### Additional Notes:
+- **Terminal** is the interface, while **Shell** is the program running inside it.  
+- **Console** is the old hardware interface, but now it’s often used as a synonym for "Terminal."  
+- **Command Line** is often interchangeable with "Shell" or "Terminal," but it refers specifically to the line where commands are typed.
