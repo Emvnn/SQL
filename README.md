@@ -321,3 +321,6 @@ Version control, also known as source control, is the practice of tracking and m
 - **Terminal** is the interface, while **Shell** is the program running inside it.  
 - **Console** is the old hardware interface, but now it’s often used as a synonym for "Terminal."  
 - **Command Line** is often interchangeable with "Shell" or "Terminal," but it refers specifically to the line where commands are typed.
+
+---
+![w](https://github.com/user-attachments/assets/0f20118c-0d48-49d3-a5fe-254fd17f2eda)
